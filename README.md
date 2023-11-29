@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Python, Django**
 
-- 📫 How to reach me **gsmart998@gmail.com**
+- 📫 How to reach me:
+  - [Email](mailto:gsmart998@gmail.com)
+  - [Telegram](https://t.me/+998997289997)
 
 
 <h3 align="left">Languages and Tools:</h3>
